@@ -1,73 +1,76 @@
-# Hi there 👋, I'm Akshat Srivastava  
+<h2 align="center"> Hey there 👋 </h2>
 
-🚀 **Aspiring Data Analyst & Data Scientist | Electrical Engineering Graduate**  
-
-I’m passionate about **data, problem-solving, and turning raw numbers into meaningful insights**.  
-Currently, I’m exploring projects that combine my background in **engineering** with my growing skills in **data analysis, visualization, and machine learning**.  
-
----
-
-## 🔹 About Me  
-- 🎓 Electrical Engineering graduate, building a career in **Data Science & Analytics**  
-- 💡 Interested in **Data Visualization, Predictive Analytics, and AI applications**  
-- ⚡ Strong foundation in **Python, SQL, and Excel**, with hands-on experience in projects  
-- 📊 Learning advanced concepts in **Machine Learning & Statistical Analysis**  
-- 🌱 Always curious to explore how data can solve real-world problems  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Data+Analyst+%7C+Data+Scientist;Electrical+Engineer;Lifelong+Learner" />
+</div>
 
 ---
 
-## 🔹 Skills & Tools  
+## 👋 Hi, I'm Akshat Srivastava  
 
-**Languages & Libraries**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- SQL, Excel, Power BI, Tableau  
-- C++ (problem-solving & algorithms)  
-
-**Data Science**  
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Machine Learning (Regression, Classification, Clustering)  
-- Data Visualization & Storytelling  
-
-**Other Tools**  
-- Git & GitHub  
-- Jupyter Notebook  
-- MS Office Suite  
+🎓 Electrical Engineering Graduate (Data Science Enthusiast)  
+📊 Aspiring **Data Analyst / Data Scientist**  
+💡 Passionate about **Data Visualization, Analytics, and ML**  
+⚡ Love solving problems with **Python, SQL, and Machine Learning**  
 
 ---
 
-## 🔹 Projects  
+## 🚀 Connect With Me  
 
-🔸 [**Sales Data Analysis (Python, Pandas, Matplotlib)**](#)  
-Extracted insights from sales transactions, identified top-performing products, and visualized sales trends.  
-
-🔸 [**COVID-19 Data Dashboard (Tableau/Power BI)**](#)  
-Built an interactive dashboard to track cases, recoveries, and vaccination progress.  
-
-🔸 [**Machine Learning Model for EV Motor Drive Optimization**](#)  
-Developed and tested an algorithm to improve efficiency and reduce ripples in EV motors.  
-
-🔸 [**SQL-Based Analytics on Retail Dataset**](#)  
-Performed complex queries to analyze customer behavior, product sales, and regional performance.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-srivastava06/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/AkshatStark06)  
 
 ---
 
-## 🔹 GitHub Stats  
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+<img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,pandas,numpy,matplotlib,sklearn,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🔹 Let's Connect  
+## 📂 Featured Projects  
 
-📫 Reach me at: **[your.email@example.com](mailto:akshat12.cp@gmail.com)**  
-💼 LinkedIn: [linkedin.com/in/akshat-srivastava06/](#)  
-🌐 Portfolio: [your-portfolio-link.com](#)  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [📊 Sales Data Analysis](#) | Extracted insights, visualized sales trends | Python, Pandas, Matplotlib |
+| [🦠 COVID-19 Dashboard](#) | Built an interactive tracker for cases & vaccinations | Tableau, Power BI |
+| [⚡ EV Motor Optimization](#) | ML model for ripple reduction & efficiency | Python, MATLAB |
+| [🛒 Retail SQL Analytics](#) | Customer behavior & regional sales insights | SQL |
 
 ---
 
-⭐️ *“Data is the new oil, but it’s the insights that fuel progress.”*  
+## 📈 GitHub Stats & Streak  
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkshatStark06&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshatStark06&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshatStark06&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Visitor Count  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshatStark06&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center"> 
+  <i>“Data is the new oil, but insights fuel progress.”</i>  
+</p>

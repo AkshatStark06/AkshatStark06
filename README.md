@@ -63,8 +63,8 @@ Performed complex queries to analyze customer behavior, product sales, and regio
 
 ## 🔹 Let's Connect  
 
-📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**  
-💼 LinkedIn: [linkedin.com/in/your-link](#)  
+📫 Reach me at: **[your.email@example.com](mailto:akshat12.cp@gmail.com)**  
+💼 LinkedIn: [linkedin.com/in/akshat-srivastava06/](#)  
 🌐 Portfolio: [your-portfolio-link.com](#)  
 
 ---

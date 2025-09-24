@@ -6,13 +6,29 @@
 
 ---
 
-## 👋 Hi, I'm Akshat Srivastava  
+<table>
+<tr>
+<td>
+
+<div align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Hey+there!+I'm+Akshat+Srivastava;Data+Analyst+%7C+Electrical+Engineer;Welcome+to+my+GitHub+💻" />
 
 🎓 Electrical Engineering Graduate (Data Science Enthusiast)  
 📊 Aspiring **Data Analyst / Data Scientist**  
 💡 Passionate about **Data Visualization, Analytics, and ML**  
 ⚡ Love solving problems with **Python, SQL, and Machine Learning**  
 
+</div>
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="300px"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Connect With Me  

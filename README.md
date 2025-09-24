@@ -22,7 +22,7 @@
 </td>
 <td>
 
-<img src="https://i.gifer.com/7Vz.gif" width="300px"/>
+<img src="https://i.gifer.com/76YS.gif" width="300px"/>
 
 </td>
 </tr>

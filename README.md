@@ -22,7 +22,7 @@
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="300px"/>
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/ai_animation.gif" width="300px"/>
 
 
 </td>

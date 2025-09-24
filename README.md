@@ -11,7 +11,7 @@
 <td>
 
 <div align="left">
-
+## 👋 Hi, I'm Akshat Srivastava 
 🎓 Electrical Engineering Graduate (Data Science Enthusiast)  
 📊 Aspiring **Data Analyst / Data Scientist**  
 💡 Passionate about **Data Visualization, Analytics, and ML**  
@@ -22,7 +22,7 @@
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px"/>
+<img src="neural_net_red.gif" width="320"/>
 </td>
 </tr>
 </table>

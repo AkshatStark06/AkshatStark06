@@ -1,8 +1,9 @@
-<h2 align="center"> Hey there 👋 </h2>
+<h2 align="center"> Hey there! I'm Akshat Srivastava 👋 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Data+Analyst+%7C+Data+Scientist;Electrical+Engineer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Data+Analyst+%7C+Electrical+Engineer;Welcome+to+my+GitHub+💻" />
 </div>
+
 
 ---
 

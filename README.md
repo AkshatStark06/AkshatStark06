@@ -11,7 +11,7 @@
 <td>
 
 <div align="left">
-👋 Hi, I'm **Akshat Srivastava** <br>
+👋 ### 👋 Hi, I'm **Akshat Srivastava** <br>
 🎓 Electrical Engineering Graduate (Data Science Enthusiast) <br>
 📊 Aspiring **Data Analyst / Data Scientist** <br>
 💡 Passionate about **Data Visualization, Analytics, ML & Neural Networks** 
@@ -21,7 +21,7 @@
 </td>
 <td>
 
-<img src="floor2_2.gif" width="300" height="300"/>
+<img src="floor2_2.gif" width="200" height="200"/>
 </td>
 </tr>
 </table>
@@ -29,13 +29,13 @@
 
 ## 🚀 Connect With Me  
 
-<p align="left">
-  <a href="https://github.com/AkshatStark06" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akshat-srivastava06/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/YourLinkedInID/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 ---

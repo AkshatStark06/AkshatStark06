@@ -60,13 +60,14 @@
 ## 📈 GitHub Stats & Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkshatStark06&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshatStark06&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatStark06&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AkshatStark06&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical" height="160"/>
 </p>
+
 
 ---
 

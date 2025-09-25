@@ -22,7 +22,7 @@
 </td>
 <td>
 
-<img src="floor2_2.gif" width="500px"/>
+<img src="floor2_2.gif" width="300" height="200"/>
 </td>
 </tr>
 </table>

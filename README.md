@@ -41,7 +41,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,pandas,numpy,matplotlib,sklearn,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,,git,github,vscode" />
 </p>
 
 ---

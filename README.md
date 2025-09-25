@@ -11,11 +11,10 @@
 <td>
 
 <div align="left">
-  👋 Hi, I'm **Akshat Srivastava** 
-  🎓 Electrical Engineering Graduate (Data Science Enthusiast) 
-  📊 Aspiring **Data Analyst / Data Scientist**  
-  💡 Passionate about **Data Visualization, Analytics, and ML**  
-  ⚡ Love solving problems with **Python, SQL, and Machine Learning**  
+👋 Hi, I'm **Akshat Srivastava** <br>
+🎓 Electrical Engineering Graduate (Data Science Enthusiast) <br>
+📊 Aspiring **Data Analyst / Data Scientist** <br>
+💡 Passionate about **Data Visualization, Analytics, ML & Neural Networks** 
 
 </div>
 
@@ -30,10 +29,15 @@
 
 ## 🚀 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-srivastava06/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/AkshatStark06)  
-
+<p align="left">
+  <a href="https://github.com/AkshatStark06" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akshat-srivastava06/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 ---
 
 ## 🛠️ Languages & Tools  

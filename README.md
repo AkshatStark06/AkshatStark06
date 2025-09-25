@@ -9,16 +9,14 @@
 <table>
 <tr>
 <td>
-
 <div align="left">
-👋 ### 👋 Hi, I'm **Akshat Srivastava** <br>
-🎓 Electrical Engineering Graduate (Data Science Enthusiast) <br>
-📊 Aspiring **Data Analyst / Data Scientist** <br>
-💡 Passionate about **Data Visualization, Analytics, ML & Neural Networks** 
-
+  <span style="font-size:22px;"><b>👋 Hi, I'm Akshat Srivastava</b></span><br>
+  🎓 Electrical Engineering Graduate (Data Science Enthusiast)<br>
+  📊 Aspiring <b>Data Analyst / Data Scientist</b><br>
+  💡 Passionate about <b>Data Visualization, Analytics, ML & Neural Networks</b>
 </div>
-
 </td>
+
 <td>
 
 <img src="floor2_2.gif" width="200" height="200"/>

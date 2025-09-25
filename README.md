@@ -22,7 +22,7 @@
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/denizyuret/nn-demo/master/images/neural-network.gif" width="500px"/>
+<img src="floor2_2.gif" width="500px"/>
 </td>
 </tr>
 </table>

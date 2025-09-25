@@ -11,7 +11,7 @@
 <td>
 
 <div align="left">
-  
+  👋 Hi, I'm **Akshat Srivastava** 
 🎓 Electrical Engineering Graduate (Data Science Enthusiast)  
 📊 Aspiring **Data Analyst / Data Scientist**  
 💡 Passionate about **Data Visualization, Analytics, and ML**  

@@ -50,10 +50,11 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📊 Sales Data Analysis](#) | Extracted insights, visualized sales trends | Python, Pandas, Matplotlib |
-| [🦠 COVID-19 Dashboard](#) | Built an interactive tracker for cases & vaccinations | Tableau, Power BI |
+| [📊 Image Classification with CNN](#) | CNN architecture, optimized using augmentation & regularization | Python, Keras, NumPy, Matplotlib |
+| [🦠 Titanic Survival Data Analysis](#) | Extracted insights, visualized survival trends | Python, Pandas, Matplotlib |
 | [⚡ EV Motor Optimization](#) | ML model for ripple reduction & efficiency | Python, MATLAB |
-| [🛒 Retail SQL Analytics](#) | Customer behavior & regional sales insights | SQL |
+| 😃 Emotion Classification (LLaMA-3) | Prompt-based emotion prediction | Python, HuggingFace, LLaMA-3 |
+| [🛒 YouTube Video Summarization](#) | Extracted & summarized video transcripts | Python, BART, HuggingFace |
 
 ---
 

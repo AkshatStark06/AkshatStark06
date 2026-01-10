@@ -25,6 +25,7 @@
 </table>
 ---
 
+
 ## 🚀 Connect With Me  
 
 <p align="center">
@@ -35,7 +36,12 @@
   <a href="https://www.linkedin.com/in/akshat-srivastava06/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:akshat12.cp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
 ---
 
 ## 🛠️ Languages & Tools  

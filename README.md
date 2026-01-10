@@ -70,21 +70,21 @@
 ## 📈 GitHub Stats & Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkshatStark06&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatStark06&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AkshatStark06&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkshatStark06&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical"/>
-</p>
+
+---
 
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshatStark06&theme=radical&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshatStark06&theme=radical&row=1&column=6" />
 </p>
 
 ---

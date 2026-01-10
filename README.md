@@ -70,7 +70,7 @@
 ## 📈 GitHub Stats & Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatStark06&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkshatStark06&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical"/>
 </p>
 
 ## 🏆 GitHub Trophies  

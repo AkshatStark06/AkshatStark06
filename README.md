@@ -41,7 +41,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,C,C++,git,github,vscode,powerBI,SQL,MySQL,PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,powerbi,mysql,postgres" />
 </p>
 
 ---
